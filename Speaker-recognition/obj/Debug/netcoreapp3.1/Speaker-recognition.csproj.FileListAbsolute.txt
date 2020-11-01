@@ -1,0 +1,74 @@
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.csprojAssemblyReference.cache
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.AssemblyInfoInputs.cache
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.AssemblyInfo.cs
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.csproj.CoreCompileInputs.cache
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.exe
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.deps.json
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.runtimeconfig.json
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.runtimeconfig.dev.json
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.pdb
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.csproj.CopyComplete
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.dll
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.pdb
+D:\Downloads\Innovaccion Virtual\Inteligencia Artificial\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.genruntimeconfig.cache
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.exe
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.deps.json
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.runtimeconfig.json
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.runtimeconfig.dev.json
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Speaker-recognition.pdb
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.csprojAssemblyReference.cache
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.AssemblyInfoInputs.cache
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.AssemblyInfo.cs
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.csproj.CopyComplete
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.dll
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.pdb
+D:\Documents\GitHub\IA-Innovaccion\Speaker-recognition\obj\Debug\netcoreapp3.1\Speaker-recognition.genruntimeconfig.cache

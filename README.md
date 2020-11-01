@@ -13,7 +13,11 @@ Existen dos versiones para este ejercicio, uno creado en [Python](Transcripcion-
 
 ## Reconocimiento del hablante con Speaker Recognition 🎙
 
-En este [ejercicio](Speaker-recognition) se aprendieron patrones de diseño básicos de Speaker Reconigtion mediante el SDK de voz, que incluyen:
+En este [ejercicio](Speaker-recognition) se aprendieron patrones de diseño básicos de Speaker Recognition mediante el SDK de voz, que incluyen:
 
 - Comprobación dependiente e independiente del texto.
 - Identificación del hablante.
+
+## Moderación de texto con Content Moderator
+
+Para este [programa](Content-moderator) se utilizó la API de moderación de contenido. Esta API filtra posibles obscenidades y texto no deseado.

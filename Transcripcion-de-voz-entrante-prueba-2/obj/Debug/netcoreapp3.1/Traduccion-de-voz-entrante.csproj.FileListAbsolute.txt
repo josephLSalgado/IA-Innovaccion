@@ -1,0 +1,148 @@
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.exe
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.deps.json
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.json
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.dev.json
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Desktop\Traduccion-de-voz-entrante\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csprojAssemblyReference.cache
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfoInputs.cache
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfo.cs
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CoreCompileInputs.cache
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CopyComplete
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Desktop\Traduccion-de-voz-entrante\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.genruntimeconfig.cache
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.exe
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.deps.json
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.json
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.dev.json
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csprojAssemblyReference.cache
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfoInputs.cache
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfo.cs
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CoreCompileInputs.cache
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CopyComplete
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Desktop\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.genruntimeconfig.cache
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.exe
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.deps.json
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.json
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.dev.json
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csprojAssemblyReference.cache
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfoInputs.cache
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfo.cs
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CoreCompileInputs.cache
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CopyComplete
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Downloads\Innovacción Virtual\Inteligencia Artificial\Traduccion-de-voz-entrante-prueba\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.genruntimeconfig.cache
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.exe
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.deps.json
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.json
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.runtimeconfig.dev.json
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csprojAssemblyReference.cache
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfoInputs.cache
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.AssemblyInfo.cs
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.csproj.CopyComplete
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.dll
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.pdb
+D:\Documents\GitHub\IA-Innovaccion\Transcripcion-de-voz-entrante-prueba-2\obj\Debug\netcoreapp3.1\Traduccion-de-voz-entrante.genruntimeconfig.cache

@@ -21,3 +21,11 @@ En este [ejercicio](Speaker-recognition) se aprendieron patrones de diseño bás
 ## Moderación de texto con Content Moderator
 
 Para este [programa](Content-moderator) se utilizó la API de moderación de contenido. Esta API filtra posibles obscenidades y texto no deseado.
+
+## Curso de iniciación sobre aprendizaje automático 📈
+
+Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones de aprendizaje automático personalizadas con herramientas gratuitas y fáciles de usar. 
+
+- [Predicción de valores numéricos mediante regresión](Curso-de-iniciacion-sobre-aprendizaje-automatico/Prediccion-de-valores-numericos-mediante-regresion)
+
+  - Regresión lineal simple

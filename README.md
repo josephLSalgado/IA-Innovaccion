@@ -34,3 +34,4 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 - [Predicción de valores numéricos mediante regresión](Curso-de-iniciacion-sobre-aprendizaje-automatico/Prediccion-de-valores-numericos-mediante-regresion)
 
   - Regresión lineal simple
+  - Regresión lineal múltiple

@@ -22,6 +22,11 @@ En este [ejercicio](Speaker-recognition) se aprendieron patrones de diseño bás
 
 Para este [programa](Content-moderator) se utilizó la API de moderación de contenido. Esta API filtra posibles obscenidades y texto no deseado.
 
+## Compilación de un bot de chat con Azure Bot Service 🤖
+
+Para la implementación de este [bot](Factbot), se utilizó Azure Bot Service, en combinación con Microsoft QnA Maker, ofrece las herramientas que los desarrolladores 
+necesitan para crear y publicar bots inteligentes que interactúen de forma natural con los usuarios mediante una gama de servicios.
+
 ## Curso de iniciación sobre aprendizaje automático 📈
 
 Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones de aprendizaje automático personalizadas con herramientas gratuitas y fáciles de usar. 

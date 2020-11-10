@@ -40,3 +40,4 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 - [Predicción de categorías con la clasificación de aprendizaje automático](Curso-de-iniciacion-sobre-aprendizaje-automatico/Prediccion-de-categorias-con-la-clasificacion-de-aprendizaje-automatico)
 
   - Regresión logística
+  - Máquinas de vectores de soporte

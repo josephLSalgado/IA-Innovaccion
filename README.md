@@ -36,3 +36,7 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
   - Regresión lineal simple
   - Regresión lineal múltiple
   - Regresión polinómica
+
+- [Predicción de categorías con la clasificación de aprendizaje automático](Curso-de-iniciacion-sobre-aprendizaje-automatico/Prediccion-de-categorias-con-la-clasificacion-de-aprendizaje-automatico)
+
+  - Regresión logística

@@ -35,3 +35,4 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 
   - Regresión lineal simple
   - Regresión lineal múltiple
+  - Regresión polinómica

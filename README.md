@@ -41,3 +41,4 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 
   - Regresión logística
   - Máquinas de vectores de soporte
+  - Máquinas de vectores de soporte avanzadas

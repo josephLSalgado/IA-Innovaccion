@@ -46,3 +46,4 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 - [Realización de predicciones a partir de datos complejos con redes neuronales](Curso-de-iniciacion-sobre-aprendizaje-automatico/Realizacion-de-predicciones-a-partir-de-datos-complejos-con-redes-neuronales)
 
   - Introducción a las redes neuronales
+  - Redes neuronales avanzadas

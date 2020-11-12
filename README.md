@@ -42,3 +42,7 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
   - Regresión logística
   - Máquinas de vectores de soporte
   - Máquinas de vectores de soporte avanzadas
+
+- [Realización de predicciones a partir de datos complejos con redes neuronales](Curso-de-iniciacion-sobre-aprendizaje-automatico/Realizacion-de-predicciones-a-partir-de-datos-complejos-con-redes-neuronales)
+
+  - Introducción a las redes neuronales

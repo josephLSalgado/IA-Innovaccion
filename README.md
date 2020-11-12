@@ -47,3 +47,7 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 
   - Introducción a las redes neuronales
   - Redes neuronales avanzadas
+
+- [Uso de modelos de aprendizaje profundo para realizar predicciones sobre datos especializados](Curso-de-iniciacion-sobre-aprendizaje-automatico/Uso-de-modelos-de-aprendizaje-profundo-para-realizar-predicciones-sobre-datos-especializados)
+
+   - Redes neuronales convolucionales

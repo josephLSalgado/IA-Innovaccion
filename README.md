@@ -55,3 +55,7 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 
 - [Uso del aprendizaje no supervisado para analizar datos sin etiquetar](Curso-de-iniciacion-sobre-aprendizaje-automatico/Uso-del-aprendizaje-no-supervisado-para-analizar-datos-sin-etiquetar)
    - Clustering
+
+## Creación de un experimento en Azure Machine Learning Studio 🖥
+
+Para este [ejercicio](Creacion-de-un-experimento-en-Azure-Machine-Learning-Studio) se utilizó Machine Learning Studio para crear un experimento de ejemplo, y después, publicarlo e implementarlo para usarlo como un servicio web.

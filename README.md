@@ -52,3 +52,6 @@ Se trataron conceptos esenciales de la IA y se mostró cómo aplicar soluciones 
 
    - Redes neuronales convolucionales
    - Redes neuronales recurrentes
+
+- [Uso del aprendizaje no supervisado para analizar datos sin etiquetar](Curso-de-iniciacion-sobre-aprendizaje-automatico/Uso-del-aprendizaje-no-supervisado-para-analizar-datos-sin-etiquetar)
+   - Clustering
